@@ -20,8 +20,5 @@ Learning from: mimo.org • Multiple AI's
 
 ## Stats
 
-![L0neW0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohameddodda&show_icons=true&theme=tokyonight&cache_seconds=0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddodda&layout=compact&theme=tokyonight&cache_seconds=0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohameddodda&theme=tokyonight)
