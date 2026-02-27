@@ -11,8 +11,8 @@ Used to know nothing about code → driven by one question: *How does this thing
 
 Building bots, tools, and whatever sparks the next "what if".
 
-→ Personal site: [https://mohameddodda.github.io](https://mohameddodda.github.io)  
-→ Latest: [AI Paper Trading Bot](https://github.com/mohameddodda/Paper_trading_bot)
+→ Personal site:[https://mohameddodda.github.io](https://mohameddodda.github.io)   
+→ Latest:[AI Paper Trading Bot](https://github.com/mohameddodda/Paper_trading_bot)  
 
 Learning from: mimo.org • Multiple AI's
 
@@ -25,5 +25,3 @@ Learning from: mimo.org • Multiple AI's
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddodda&layout=compact&theme=tokyonight&cache_seconds=0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohameddodda&theme=tokyonight)
-
-*(Stats may take a moment to load or appear blank at first due to low activity — they update automatically as you contribute more.)*
