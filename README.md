@@ -1,7 +1,7 @@
 # L0neW0lf
 
-AI | Crypto | Minimalist Coder  
-Building bots, tools, and lone-wolf experiments.
+AI | Crypto | Minimalist Coder | Photography 
+Building bots, tools, and lonewolf experiments.
 
 → Personal site: [https://mohameddodda.github.io](https://mohameddodda.github.io)  
 → Latest: [AI Paper Trading Bot](https://github.com/mohameddodda/Paper_trading_bot)
