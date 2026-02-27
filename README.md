@@ -5,8 +5,8 @@ AI | Crypto | Minimalist Coder | Photography
 
 Used to know nothing about code → driven by one question: *How does this thing actually work?*    
 
-2015: Jailbreaking iPod Touch 5th gen — unlocking hidden potential, one exploit at a time. 
-2024: Jailbreaking PS VIta 
+2015: Jailbreaking iPod Touch 5th gen — unlocking hidden potential, one exploit at a time.          
+2024: Jailbreaking PS VIta. 
 
 Building bots, tools, and whatever sparks the next "what if".  
 
