@@ -1,53 +1,29 @@
 ## L0neW0lf 🐺
-**Self-taught since day zero.** 
 
-AI | Crypto | Minimalist Coder | Photography 
+**Self-taught since day zero.**
 
-Used to know nothing about code → driven by one question: *How does this thing actually work?*    
+AI | Crypto | Minimalist Coder | Photography
 
-2015: Jailbreaking iPod Touch 5th gen — unlocking hidden potential, one exploit at a time.          
-2024: Jailbreaking PS VIta. 
+Used to know nothing about code → driven by one question: *How does this thing actually work?*
 
-Building bots, tools, and whatever sparks the next "what if".  
+2015: Jailbreaking iPod Touch 5th gen — unlocking hidden potential, one exploit at a time.  
+2024: Jailbreaking PS Vita.
 
-→ Personal site: [https://mohameddodda.github.io](https://mohameddodda.github.io) 
+Building bots, tools, and whatever sparks the next "what if".
 
-→ Latest: [AI Paper Trading Bot](https://github.com/mohameddodda/Paper_trading_bot) 
+→ Personal site: [https://mohameddodda.github.io](https://mohameddodda.github.io)  
+→ Latest: [AI Paper Trading Bot](https://github.com/mohameddodda/Paper_trading_bot)
 
+Learning from: mimo.org • Multiple AI's
 
-Learning from: mimo.org • Multiple AI's  
-Tech: Python • HTML/CSS/JS • AI tools 
+**Tech:** Python • HTML/CSS/JS • AI tools
 
 ## Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=mohameddodda&show_icons=true&theme=tokyonight#gh-dark-mode-only" 
-    />
-    <img 
-      alt="L0neW0lf's GitHub stats" 
-      src="https://github-readme-stats.vercel.app/api?username=mohameddodda&show_icons=true&theme=default#gh-light-mode-only" 
-    />
-  </picture>
-</a>
+![L0neW0lf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohameddodda&show_icons=true&theme=tokyonight&cache_seconds=0)
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddodda&layout=compact&theme=tokyonight&cache_seconds=0)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddodda&layout=compact&theme=tokyonight#gh-dark-mode-only" 
-    />
-    <img 
-      alt="Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddodda&layout=compact&theme=default#gh-light-mode-only" 
-    />
-  </picture>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohameddodda&theme=tokyonight)
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohameddodda&theme=tokyonight)](https://git.io/streak-stats)
+*(Stats may take a moment to load or appear blank at first due to low activity — they update automatically as you contribute more.)*
