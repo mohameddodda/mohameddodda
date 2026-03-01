@@ -6,7 +6,8 @@ Used to know nothing about code → driven by one question: *How does this thing
 
 - 2015: Jailbreaking iPod Touch 5th gen — unlocking hidden potential; one exploit at a time.  
 - 2024: Jailbreaking PS Vita.
-
+- 2025: Started the "Paper_Trading_bot" project, on Pythonista for IOS, using iPhone 11pro.
+  
 → Personal site: [https://mohameddodda.github.io](https://mohameddodda.github.io)  
 → Latest project: [AI-Powered Crypto Paper Trading Bot](https://github.com/mohameddodda/Paper_trading_bot)  
   
